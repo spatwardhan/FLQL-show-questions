@@ -10,17 +10,15 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "/images/flql16.png",
-      "32": "/images/flql32.png",
-      "48": "/images/flql48.png",
-      "128": "/images/flql128.png"
+      "16": "images/favicon_io/favicon-16.png",
+      "32": "images/favicon_io/favicon-32.png",
+      "48": "images/favicon_io/favicon.ico"     
     }
   },
   "icons": {
-    "16": "/images/flql16.png",
-    "32": "/images/flql32.png",
-    "48": "/images/flql48.png",
-    "128": "/images/flql128.png"
+      "16": "images/favicon_io/favicon-16.png",
+      "32": "images/favicon_io/favicon-32.png",
+      "48": "images/favicon_io/favicon.ico"
   },
   "content_scripts": [
     {

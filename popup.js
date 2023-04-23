@@ -21,6 +21,7 @@ loadButton.addEventListener("click", async () => {
 
 async function displayFileLoaded(questions, fileToLoad) {
   //alert("A file has been loaded. You are ready to begin the quiz.")
+  location.reload();
   var element = document.getElementById("instructions");
   if (element && questions) {
     if (questions.length > 0) {
